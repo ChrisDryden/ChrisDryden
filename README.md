@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Chris Dryden
 
-I'm an upcoming graduate of the University of Toronto in Computer Engineering. I will be joining [Amazon][https://www.amazon.ca/] as a Software Developer on their Scheduling Team helping Amazon hire the best!
+I'm an upcoming graduate of the University of Toronto in Computer Engineering. I will be joining [Amazon](https://www.amazon.ca/) as a Software Developer on their Scheduling Team helping Amazon hire the best!
 
 ### 📝 Recent Roles
 
